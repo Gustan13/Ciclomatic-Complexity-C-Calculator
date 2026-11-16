@@ -1,5 +1,7 @@
 Software Requirements
 
 - It can parse C files
+- It can count the amount of conditional branches present in the C file
 - It can count the amount of conditional branches in each function
+- It can print out a log with the ciclomatic complexity of the C file
 - It can print out a log with the ciclomatic complexity of each function in the file
